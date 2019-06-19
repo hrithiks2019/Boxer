@@ -1,0 +1,41 @@
+'
+
+
+
+		Leg Servos ------->  ESP-8266 Connection :
+
+
+	Servo:                          D-Pins    Gpio
+
+left thigh front  = blue ;          // D3      0
+
+right thigh front = blue-white;     // D4      2
+
+left thigh back = red ;             // D6      12
+
+right thigh back = red-white ;      // D5      14
+
+
+left hind front = green ;           // D8      15
+
+right hind front = green-white ;    // D7      13
+
+left hind back = orange ;           // D2      4
+
+right hind back = orange-white ;    // D1      5
+
+
+		ESP-8266 -------> Arduino Uno Connection:
+		
+	
+	
+	Rx <-------- Tx  
+	Tx --------> Rx
+
+
+
+
+		Arduino Connection : 
+
+Led Matrix :
+	
