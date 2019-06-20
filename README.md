@@ -3,7 +3,7 @@ IOT_based_dog
 
 # Short Intro:
     As you all  know this is a IOT Based (quadraped) Machine . Which can interact around Physically in the world.
- I Created this project as my summer project . I Thought it'll be easy to create a machine like this considering my past experiece with robotics ,But To my Surprise this Project was Not Like the others , This is a Total Pain in th @$$ ....
+ I Created this project as my summer project . I Thought it'll be easy to create a machine like this considering my past experiece with robotics ,But To my Surprise this Project was Not Like the others , This is a Total Pain in the @$$ ....
  
     Now back to the nerd part :
     
